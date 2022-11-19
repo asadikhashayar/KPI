@@ -1,2 +1,3 @@
-print("Hello")
-print("Lololololololololol")
+import scipy.io
+
+data = scipy.io.loadmat()
